@@ -119,7 +119,7 @@ return (
             <div className="work__text">
               <h3>Task Tracker React App</h3>
               <p>
-                A front-end react app I made from a crash course by Travery Media on Youtube.
+                A front-end react app I made from a crash course by Traversy Media on Youtube.
               </p>
               <ul className="work__list">
                 <li>React</li>
