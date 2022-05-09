@@ -1,4 +1,4 @@
-import React from 'react';
+import  {useEffect } from 'react';
 import Header from "./components/Header";
 import About from "./components/About";
 import Contact from "./components/Contact";
@@ -27,9 +27,13 @@ const App= () => {
   
   window.addEventListener('keydown', handleFirstTab)
   
-  const backToTopButton = document.querySelector(".back-to-top");
-  let isBackToTopRendered = false;
-  
+ let backToTopButton;
+ useEffect (() => {
+  backToTopButton = document.querySelector(".back-to-top");
+}, []);
+
+let isBackToTopRendered = false;
+
   let alterStyles = (isBackToTopRendered) => {
     backToTopButton.style.visibility = isBackToTopRendered ? "visible" : "hidden";
     backToTopButton.style.opacity = isBackToTopRendered ? 1 : 0;

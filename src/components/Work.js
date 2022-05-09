@@ -128,7 +128,7 @@ return (
               </ul>
 
               <div className="work__links">
-                <a href={"https://drive.google.com/file/d/1e7ovNjn6b6-LZjic3Q9NeacXETktLDQP/view"} target="_blank" className="link__text">
+                <a href={"https://lconnell1000.github.io/task-tracker-react-app/"} target="_blank" className="link__text">
                   Visit Site <span>&rarr;</span>
                 </a>
                 <a href="https://github.com/lconnell1000/task-tracker-react-app/blob/master/src/App.js" title="View Source Code" target="_blank">
@@ -137,7 +137,7 @@ return (
               </div>
             </div>
             <div className="work__image-box">
-              <img src={"./assets/images/employeetracker.png"} className="work__image" alt="employee tracker" />
+              <img src={"./assets/images/Tasktracker.png"} className="work__image" alt="employee tracker" />
             </div>
           </div>
           <div className="work__box">
