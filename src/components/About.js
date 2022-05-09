@@ -30,7 +30,7 @@ function About () {
           </div>
         </div>
         <a href="#top" class="back-to-top" title="Back to Top">
-       <img src={"/assets/images/arrow-up.svg"} alt="Back to Top" className="back-to-top__image"/>
+       <img src={"./assets/images/arrow-up.svg"} alt="Back to Top" className="back-to-top__image"/>
      </a>
     
       </section>
