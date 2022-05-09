@@ -48,7 +48,7 @@ import '../index.css';
     };
 
     return (
-        <section className="form">
+        <section className="form" id="form">
         <div className="row">
         <h2>Send Me a Message</h2>
         <form className="form">

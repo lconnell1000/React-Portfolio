@@ -25,7 +25,7 @@ function Header () {
           <span>Lachlan Connell</span>
         </h1>
         <p>Full Stack Web Developer based in Adelaide, Australia.</p>
-        <a href="#contact" className="btn btn--pink">Get in touch</a>
+        <a href="#form" className="btn btn--pink">Get in touch</a>
       </div>
     </div>
   </header>

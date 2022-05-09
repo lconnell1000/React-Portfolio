@@ -162,7 +162,7 @@ return (
               </div>
             </div>
             <div className="work__image-box">
-              <img src={"./assets/images/socialnetwork.png"} className="work__image" alt="employee tracker" />
+              <img src={"./assets/images/Socialnetwork.png"} className="work__image" alt="employee tracker" />
             </div>
           </div>
         </div>
