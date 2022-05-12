@@ -14,11 +14,10 @@ function About () {
             <div className="about__text">
              
               <p>
-                  Hi! My name is Lachlan and I am from Adelaide in South Australia. I enrolled in the University of 
-                  Adelaide's coding bootcamp and started my course on the 29th of November 2021. <br></br>
-                  Since starting the bootcamp it has been a very challenging learning journey but also very exciting and 
-                  rewarding.<br></br> When i'm not spending time working on my coding skills I spend most my time either watching
-                  sports, or cycling
+                  Hi! My name is Lachlan and I am from Adelaide in South Australia. I’ve taken the scenic route into programming and have enjoyed the ride so far.  My first introduction to building software was in 2013 studying petroleum engineering, where I was able to take an introduction to programming course where I built some basic software in C++.  While I enjoyed the course, I took the opportunity to defer and travel and didn’t look back!
+
+Currently I’m just about to complete a coding bootcamp with the University of Adelaide.  Here I’ve been able to improve my skills with JavaScript, HTML and CSS.  I’ve been able to get some exposure to React and Node also.
+
               </p>
               
               <a href={"Lachlan.ConnellResume.pdf"} className="btn" target="_blank">My Resume</a>
